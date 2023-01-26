@@ -6,7 +6,7 @@
 <p align="center">
   https://www.buymeacoffee.com/LemonProg
   
-- 🔭 I’m currently coding in Python/HTML/CSS
-- 🌱 I’m currently learning C#/JavaScript/PHP
+- 🔭 I’m currently coding in Python/HTML/CSS/PHP
+- 🌱 I’m currently learning C#/JavaScript
 - 🤔 I’m will maybe learn Dart with Flutter to make Desktop/Mobile app
 - 📫 How to reach me: My Discord is LEMON シ#7313
