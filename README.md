@@ -6,7 +6,6 @@
 <p align="center">
   https://www.buymeacoffee.com/LemonProg
   
-- 🔭 I’m currently coding in Python/HTML/CSS/PHP
-- 🌱 I’m currently learning C#/JavaScript
+- 🔭 I’m currently coding in Python/HTML/CSS/PHP/Javascript
 - 🤔 I’m will maybe learn Dart with Flutter to make Desktop/Mobile app
-- 📫 How to reach me: LEMON シ#7313 on discord
+- 📫 How to reach me: nathan.cohencoffl on Instagram
